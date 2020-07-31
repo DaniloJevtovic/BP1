@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1454867300 source:c:\users\lemur\desktop\projekat_gradska_plaza\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mem.h>
+
+1454869778 source:c:\users\lemur\desktop\projekat\projekat_gradska_plaza\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mem.h>
+
